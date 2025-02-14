@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct Mirna_AppApp: App {
+struct Runwai: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
